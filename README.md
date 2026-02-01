@@ -89,5 +89,5 @@ if __name__ == "__main__":
 ```
 <H3>OUTPUT:</H3>
 
-<img width="830" height="567" alt="image" src="https://github.com/user-attachments/assets/fac58762-4fcf-49cc-889d-76df87fc5d51" />
+<img width="692" height="644" alt="image" src="https://github.com/user-attachments/assets/51e869d9-9608-4764-9bff-6acde9ed98d9" />
 
